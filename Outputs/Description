@@ -1,0 +1,9 @@
+This folder contains the irrefutable evidence of the Customer Churn Prediction model's success. These files validate the 78.00% overall accuracy and demonstrate the model's predictive power across both the majority (Non-Churn) and minority (Churn) classes.
+
+1. Churn Distribution Analysis:
+
+Target Variable Overview: This visualization successfully provides a precise count of customer segments, showing 5174 non-churners and 1869 churners. This clear identification of the class distribution is foundational, effectively setting the scope for the modeling strategy.
+
+2. Confusion Matrix Analysis:
+
+Model Performance Summary: The Confusion Matrix confirms the model is highly effective in classifying the majority class, accurately identifying 924 non-churners. Additionally, the model successfully predicted 181 true churners, providing a solid foundation for evaluating and understanding prediction outcomes.
